@@ -6,7 +6,7 @@ const settings = {
   ownerNumber: '48699544004', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
-  description: "This is a bot for managing group commands and automating tasks.",
+  description: "مش عارف",
   version: "1.0.0",
 };
 
